@@ -17,7 +17,7 @@ This repository contains these examples:
 * `image.html` - A non-flexible image
 * `image_flexible.html` - A flexible image
 * `video.html` - A non-flexible video
-* `video_flexible.html` - A flexible video using FitVids.js
+* `video_flexible.html` - A flexible video using [FitVids.js](https://github.com/davatron5000/FitVids.js)
 * `grid_fluid_media_queries.html` - A fluid grid with media queries
 
 All examples were tested to work in all modern browsers. To get media queries to work in IE8 and lower you'll have to include a polyfill like [respond.js](https://github.com/scottjehl/Respond).
