@@ -26,7 +26,7 @@ All examples were tested to work in all modern browsers. To get media queries to
 
 ## Presentation
 
-You can find the video of our presentation [here](http://www.slideshare.net/TYPO3Nederland/2-responsive-webdesign?ref=http://www.typo3congres.nl/programma/responsive-webdesign/) and the slides [here](http://vimeo.com/54006547). Please note that the presentation is in Dutch.
+You can find the video of our presentation [here](http://vimeo.com/54006547) and the slides [here](http://www.slideshare.net/TYPO3Nederland/2-responsive-webdesign?ref=http://www.typo3congres.nl/programma/responsive-webdesign/). Please note that the presentation is in Dutch.
 
 ## TypoScript
 
