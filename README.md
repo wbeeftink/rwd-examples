@@ -12,7 +12,7 @@ Presentation by:
 
 ## Examples
 
-[Check out the demo](http://wbeeftink.github.io/rwd_examples/). This repository contains these examples:
+[Check out the demo](http://wbeeftink.github.io/rwd-examples/). This repository contains these examples:
 
 * `grid_fixed.html` - A fixed grid
 * `grid_fluid.html` - A fluid grid
